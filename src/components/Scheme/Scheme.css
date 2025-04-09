@@ -1,0 +1,8 @@
+.scheme{
+    display: flex;
+    justify-content: center;
+    margin: 20px 70px;
+    padding: 10px 20px;
+    background-color: #e8f5fb;
+    border-radius: 20px;
+}

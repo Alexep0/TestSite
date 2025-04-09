@@ -1,0 +1,44 @@
+.header {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    margin: 20px 70px;
+    padding: 10px 0;
+    min-height: 10vh;
+    font-size: calc(10px + 1vmin);
+    color: white;
+}
+
+.header_logo {
+    display: flex;
+    justify-content: space-around;
+    max-width: 100%;
+    background-color: #0083cd;
+    border-radius: 20px;
+}
+
+.header__number{
+    text-decoration: none;
+    font-weight: 300;
+    font-size: 22px;
+    line-height: 25px;
+    color: #ffffff;
+    margin: 20px 10px;
+    text-shadow: 1px 2px 4px rgba(0, 0, 0, 0.2);
+    opacity: 0.9;
+}
+
+.header__link-logo {
+    margin: auto 0;
+    max-width: 200px;
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.header_title{
+    text-align: center;
+    font-size: calc(30px + 1vmin);
+    font-weight: 700;
+    color: #a53e59;
+    margin: 5px;
+}

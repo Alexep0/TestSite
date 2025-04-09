@@ -1,0 +1,9 @@
+.advantages_list{
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 20px;
+    background-color: #e8f5fb;
+    border-radius: 20px;
+    margin: 20px 70px;
+    padding: 30px;
+}

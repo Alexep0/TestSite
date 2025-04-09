@@ -1,0 +1,10 @@
+.timer{
+    text-align: center;
+}
+
+.timer_block{
+    background-color: #f4112f;
+    font-size: 30px;
+    border-radius: 10px;
+    padding: 5px;
+}

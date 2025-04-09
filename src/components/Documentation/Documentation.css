@@ -1,0 +1,21 @@
+.documentation {
+    margin: 20px 70px;
+    padding: 10px 20px;
+    background-color: #e8f5fb;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.documentation_table {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.documentation_item {
+    max-width: 100%;
+    height: auto;
+    flex-shrink: 1;
+    max-width: 200px;
+}
